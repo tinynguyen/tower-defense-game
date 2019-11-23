@@ -1,0 +1,83 @@
+﻿[
+  {
+    "ID": 101,
+    "Name": "Lính bộ 1",
+    "TypeMonster": 1,
+    "BaseHp": 30,
+    "BaseDef": -1,
+    "BaseSpeed": 1,
+    "BaseGold":2
+  },
+  {
+    "ID": 102,
+    "Name": "Lính bộ 2",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 1,
+    "BaseGold":-1
+  },
+  {
+    "ID": 103,
+    "Name": "Lính bộ 3",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 1,
+    "BaseGold":-1
+  },
+  {
+    "ID": 104,
+    "Name": "Lính tank 1",
+    "TypeMonster": 1,
+    "BaseHp": 100,
+    "BaseDef": -1,
+    "BaseSpeed": 0.5,
+    "BaseGold":10
+  },
+  {
+    "ID": 105,
+    "Name": "Lính tank 2",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 0.5,
+    "BaseGold":-1
+  },
+  {
+    "ID": 106,
+    "Name": "Lính tank 3",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 0.5,
+    "BaseGold":-1
+  },
+  {
+    "ID": 107,
+    "Name": "Lính bay 1",
+    "TypeMonster": 1,
+    "BaseHp": 20,
+    "BaseDef": -1,
+    "BaseSpeed": 1.2,
+    "BaseGold":3
+  },
+  {
+    "ID": 108,
+    "Name": "Lính bay 2",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 0.5,
+    "BaseGold":-1
+  },
+  {
+    "ID": 109,
+    "Name": "Lính bay 3",
+    "TypeMonster": 1,
+    "BaseHp": -1,
+    "BaseDef": -1,
+    "BaseSpeed": 0.5,
+    "BaseGold":-1
+  }
+]
